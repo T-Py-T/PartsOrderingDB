@@ -1,3 +1,0 @@
-import oracleSort
-
-read()
