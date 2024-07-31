@@ -1,0 +1,1726 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Thomas DePhillips</Author>
+  <LastAuthor>vm039131</LastAuthor>
+  <Created>2016-08-26T18:58:31Z</Created>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10056</WindowHeight>
+  <WindowWidth>22980</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>84</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="RobotPartsOrdering_Acad_Macro">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="256" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">THE CONTROLLED VERSION OF THIS DOCUMENT IS ELECTRONICALLY MAINTAINED.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7235.0309999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5441.4780000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">HARD COPIES ARE CONSIDERED UNCONTROLLED.  HOLDERS ARE RESPONSIBLE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7235.0309999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5400.6750000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FOR VERIFYING THE REVISION LEVEL WITH BSG ENGINEERING PRIOR TO USE.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7235.0309999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5359.8720000000003</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">DESCRIPTION</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7661.9549999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5282.4059999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">REV</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7236.165</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5282.4059999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DATE</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8271.4419999999991</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5282.4059999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BY</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8453.4369999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5282.4059999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">The controlled version of this document is electronically maintained. Hard copies are considered uncontrolled. Holders are responsible for verifying the revision level prior to use.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3295.181</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38.146450000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4309.9870000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">118.55249999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">NOT SHOWN</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4381.2439999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">134.12200000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">808.61860000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SHT</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7393.8990000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">686.02059999999994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DET</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7221.0150000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">686.02059999999994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">QTY</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7310.21</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">687.48879999999997</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7244.1390000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">751.54049999999995</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">813.20630000000006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">813.20630000000006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">S.P.</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7478.69</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">686.02059999999994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">WT.</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7589.3580000000002</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">686.02059999999994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">DESCRIPTION</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7845.3810000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">686.02059999999994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">PART NO.</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8288.1219999999994</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">686.02059999999994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7242.4880000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">813.20630000000006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">LEONI-EPS DRESSOUT PACKAGE</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7690.8540000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2474.21</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">SEE THIS SHT. FOR SPARE PARTS LIST</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7690.8540000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2412.2719999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">813.20630000000006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2478.1840000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2478.1840000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1001</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7211.1040000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2478.1840000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">xx#</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7585.8360000000002</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2478.1840000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1553.1959999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1553.1959999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7242.4880000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">874.87220000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1553.1959999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J6 AXIS INSULATION KIT ASS.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1614.8620000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-5426-290</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1614.8620000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1614.8620000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1614.8620000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7241.9369999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">936.53800000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1614.8620000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1738.194</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1738.194</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.8239999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1429.865</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1738.194</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1861.5250000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.8239999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1491.53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.2740000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1553.1959999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J6 AXIS 31mm HOSE CLAMP</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1491.53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-6278-290</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1491.53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1491.53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1491.53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.8239999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1676.528</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1861.5250000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.8239999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1799.86</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1861.5250000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7230.375</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1861.5250000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1923.191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1923.191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.8239999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1614.8620000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.8239999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1738.194</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1923.191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1491.53</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">874.87220000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">874.87220000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">874.87220000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7231.4759999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1923.191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">870.28449999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">746.95280000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">751.54049999999995</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">751.54049999999995</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">751.54049999999995</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">936.53800000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">936.53800000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">936.53800000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">931.95029999999997</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J3 AXIS DRESS PLATE ASM.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1738.194</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-6751-400</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1738.194</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1799.86</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1799.86</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1799.86</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">993.61609999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">998.2038</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">998.2038</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7242.4880000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">998.2038</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">998.2038</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7241.9369999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1059.8699999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7242.4880000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1121.5350000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1059.8699999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1059.8699999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">AVR UNIT W/ CPx INPUT AUX SWITCHES</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1059.8699999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-441</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1059.8699999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1059.8699999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1055.2819999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1121.5350000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1121.5350000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-451</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1121.5350000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1121.5350000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1116.9480000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">TIP DRESS OPTION (KYOKUTOH)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1121.5350000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1178.614</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1183.201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1183.201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-463</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1183.201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7242.4880000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1183.201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1183.201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7243.0379999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1244.867</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7229.8239999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1306.5329999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1244.867</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1244.867</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1244.867</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1240.279</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1306.5329999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1306.5329999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-481</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1306.5329999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1306.5329999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1301.9449999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">D-NET I/O SINGLE WATER SAVER</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1183.201</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">DYNAMIC BRAKE &amp; GUN CHANGE BOARD SCHEM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1306.5329999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7233.1279999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1368.1990000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1368.1990000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1368.1990000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1368.1990000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7164.7150000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1363.6110000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-6278-292</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1552.8689999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-6278-280</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1429.537</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1429.537</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1429.537</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1429.537</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WATER CIRCUIT DIAGRAM</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">751.54049999999995</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WA-6751-202</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">751.54049999999995</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-402</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">813.20630000000006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">PROCESS I/O COMMUNICATION DNET(PLC)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">874.87220000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-411</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">874.87220000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-421</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">936.53800000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">SAFETY I/O (PILZ)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">998.2038</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-435</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">998.2038</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WELD PRIM CABLE EXTENSION AT WELD GUN</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1244.867</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-471</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1244.867</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">R30iA CONTROLLER TYPE (MEZZ)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">813.20630000000006</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">ROBOT LOCAL I/O DEVICENET-DUAL CH CARD</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">936.53800000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WE-6751-501R2K</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1368.1990000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">SG1 CARRIED (R2000)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1368.1990000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7417.5749999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1676.528</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7332.7839999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1676.528</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7601.8029999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1676.528</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FANUC #HONAS13R2K165FA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7690.8540000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2291.172</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">LEONI #FRAHONAS13-R2K-165F-A</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7690.8540000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2350.3330000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">(2) FR 8x12 Hose - Blue L= 5.25M</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7812.1949999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3147.326</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">(2) FR 8x12 Hose - Gray L= 5.25M</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3106.2930000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7246.3370000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2819.049</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7246.3370000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2736.98</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">C</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7245.884</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2778.0140000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7245.4309999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3548.674</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ITEM</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7226.3530000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4265.4210000000003</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7374.4610000000002</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4265.2969999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">QTY</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7303.8630000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4265.4210000000003</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7323.6059999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4213.03</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">DESCRIPTION</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8010.7950000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4267.0219999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">LEONI-EPS DRESSOUT PACKAGE SPARE PARTS LIST</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7225.0529999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4318.5209999999997</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">PART NUMBER</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7472.2389999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4267.0219999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Corrugated Umbilical (5.25m)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4213.03</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7319.5259999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2819.049</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7323.6059999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2778.0140000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7323.6059999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2736.98</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">LEPS 1385</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2778.0140000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Spacer</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2778.0140000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">NR380000022</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2736.98</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Swivel Plate</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2736.98</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00761-00-18</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2819.049</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Clamp Bracket</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2819.049</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">7.358.053.2001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4213.03</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">E</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7246.7910000000002</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2695.9459999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7323.6059999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2695.9459999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Corrugated Umbilical</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7339.86</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3404.03</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">With Sub-Components</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7391.3980000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3389.5230000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Corrugated Umbilical Sub-Component List</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7619.2389999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4162.9809999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Leon 3.213.051M.3011B</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3618.8530000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">(3) 25mm² Ind. Cond. Cbl w/90º MS style </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3618.8519999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Leon 3.104.17.3074B</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7441.4260000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3536.7840000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">(1) Servo Encoder Cable - w/ DDK connector</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3536.7829999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Leon 3.121.17.3004B</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3454.7150000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">(1) Servo Motor Power Cable - w/ DDK</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3454.7139999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">connector</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3413.68</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Leoni# 3.548.047M.3005B</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3372.6460000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">(1) CHC2 Cable - w/ 4 Pin Micro connectors</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3372.645</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Brad Harrison</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3290.5770000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">(1) Transformer OT Cable - 5 Pin Micro</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3290.576</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">connector</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3249.5419999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FR 8X12 BL</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3147.3249999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FR 8X12 GY</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3106.2910000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">#80203-M060</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3253.13</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">style conn. at J3 &amp; MS28-22 Str. conn. at J6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3581.681</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00796-09-XX </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7438.8320000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2694.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00796-09-01 (Fanuc R2000iB 165F)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7812.12</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2651.04</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00796-09-02 (Fanuc R2000iB 210F)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7812.12</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2612.0459999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J4 Protection Ring</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.3829999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2694.027</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FANUC# WE-6278-214-051</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3577.8180000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FANUC# WE-6278-212-052</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3495.7489999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FANUC# WE-6278-217-052</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3413.68</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">FANUC# WE-6278-216-050</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3331.6120000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00761-00-18</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4121.1139999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Single Bracket</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4121.1130000000003</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00781-24 (x3) ** </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4080.08</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Round Donut</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4080.0790000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">LEPS 2815 **</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4039.0450000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Spring</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4039.0439999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00761-00-27</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3997.77</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J6 Trumpet</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3997.7689999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">NTKKSB-70B148 (x2)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3956.7350000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J3 and J6 Star Separator</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3956.7339999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">HOSECLAMP 044</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3915.701</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J3 Hose Clamp</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3915.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00781-34-A **</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3872.7779999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Modified Trumpet</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3872.777</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00763-12 **</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7439.95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3833.433</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Double Trumpet</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7814.1369999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3833.4319999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00761-00-98</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7440.1809999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3790.306</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Half Shell</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7813.2879999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3790.3049999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">M70BU ** </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7438.2939999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3750.8220000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">70mm Corrugated Tube</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7811.4009999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3750.8209999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">M70BU-2815B-2.65M (**) </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7437.5469999999996</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3666.8760000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Pre-Assembled Corrugated (** incl. in Assy.) </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7813.317</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3667.739</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">B00795-00 ** </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7437.4679999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3711.4430000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">Ends Caps </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7813.2370000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3706.8539999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J6 AXIS DRESSOUT BRKTS + ATC AIRGUN BRKT</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1429.865</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">J6 AXIS REVERSE L BRKT</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1553.1959999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">DUAL REMOTE OP BOX STAND</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1861.5250000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-5215-504</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1861.5250000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7002.058</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2574.2260000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7020.4840000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2510.7260000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4066.8449999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3642.8449999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4048.4189999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3706.3449999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3122.067</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3642.8449999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1001</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3079.5439999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3706.3449999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3849.6030000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3640.578</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3831.1759999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3704.078</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2748.288</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2518.654</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2729.8609999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2582.154</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3476.944</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3642.8449999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3458.518</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3706.3449999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3411.6370000000002</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4088.3539999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3392.502</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4151.8540000000003</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5814.4229999999998</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4078.1590000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5796.7049999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4141.6589999999997</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1086.9480000000001</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1450.6679999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1068.5219999999999</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1514.1679999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">T1</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6302.9970000000003</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4595.0940000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-6751-407</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1676.528</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">INTEGRATED ROCON WATER SAVER</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1676.528</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">ROBOT STENCIL DATA</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1923.191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-6278-200</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1923.191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">*</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7170.9759999999997</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1915.086</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WELD CONTROLLER BRACKET</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7692.8680000000004</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1799.86</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s62"><Data ss:Type="String">WO-6278-500</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8247.8610000000008</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1799.86</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
